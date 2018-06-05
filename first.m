@@ -49,6 +49,7 @@
 % "global node" that is connected to the master. The "global node" is
 % automatically used by other ROS functions. 
 %%
+rosshutdown
 rosinit
 %%
 % * Use |<docid:robotics_ref.bupf5_j_4 rosnode> list| to see all nodes in the
